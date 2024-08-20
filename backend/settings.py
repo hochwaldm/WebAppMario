@@ -44,7 +44,7 @@ class _UiSettings(BaseSettings):
     title: str = "Z24"
     logo: Optional[str] = None
     chat_logo: Optional[str] = None
-    chat_title: str = "Hallo ich bin ein Chatbot!!"
+    chat_title: str = "Hallo ich bin ein Chatbot!!!!!!!!!!"
     chat_description: str = "Ich beantworte Fragen zu Super Mario und seinen Spielen - aber leider nicht mehr ;)"
     favicon: str = "/favicon.ico"
     show_share_button: bool = True
